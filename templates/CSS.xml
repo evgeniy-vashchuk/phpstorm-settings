@@ -1,0 +1,8 @@
+<templateSet group="CSS">
+  <template name="i" value="@include $MYTEXT$;" description="@import" toReformat="false" toShortenFQNames="true">
+    <variable name="MYTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
