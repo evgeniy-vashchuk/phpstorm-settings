@@ -1,8 +1,0 @@
-<templateSet group="html/xml">
-  <template name="mq" value="@include max-w($MYTEXT$) {&#10;&#9;&#10;}" description="Outputting mixin for media queries" toReformat="false" toShortenFQNames="true">
-    <variable name="MYTEXT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="CSS" value="true" />
-    </context>
-  </template>
-</templateSet>

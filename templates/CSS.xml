@@ -5,4 +5,10 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="mql" value=".mq($MYTEXT$, {&#10;&#9;$END$&#10;});" description="Outputting mixin for media queries for LESS" toReformat="false" toShortenFQNames="true">
+    <variable name="MYTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
