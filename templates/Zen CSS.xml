@@ -1,0 +1,14 @@
+<templateSet group="Zen CSS">
+  <template name="r" value="right: $END$;" description="right:...;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="b" value="bottom: $END$;" description="bottom:...;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="l" value="left: $END$;" description="left:...;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="h" value="height: $END$;" description="height:...;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
