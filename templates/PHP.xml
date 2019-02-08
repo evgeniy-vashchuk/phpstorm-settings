@@ -2,6 +2,28 @@
   <template name="php" value="&lt;?php $MYTEXT$ ?&gt;" description="php tag" toReformat="false" toShortenFQNames="true">
     <variable name="MYTEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="mtt" value="&lt;?php echo __('$MYTEXT$'); ?&gt;" description="Magento translate text" toReformat="false" toShortenFQNames="true">
+    <variable name="MYTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="miu" value="&lt;?php echo $block-&gt;getUrl('/'); ?&gt;$MYTEXT$" description="Magento index url" toReformat="false" toShortenFQNames="true">
+    <variable name="MYTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="mfu" value="&lt;?= $this-&gt;getViewFileUrl('$MYTEXT$'); ?&gt;" description="Magento files url" toReformat="false" toShortenFQNames="true">
+    <variable name="MYTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
