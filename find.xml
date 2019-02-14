@@ -11,11 +11,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.php</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
