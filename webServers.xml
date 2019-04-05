@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="242b20fe-d888-40cc-95ad-21672152d83e" name="gorabbit" url="http://yuush.dev">
+        <fileTransfer host="yuush.dev" port="22" rootFolder="/home/dev2/projects/gorabbit/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b1e40ad2-9722-4365-83f0-fec572813702" name="Wooden Floors" url="http://wfuk.6.yuush.dev">
+        <fileTransfer host="wfuk.6.yuush.dev" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
