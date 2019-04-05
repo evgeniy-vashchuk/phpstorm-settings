@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b1e40ad2-9722-4365-83f0-fec572813702" name="Wooden Floors" url="http://wfuk.6.yuush.dev">
-        <fileTransfer host="wfuk.6.yuush.dev" port="22" rootFolder="/projects/wfuk/www" accessType="SFTP">
+        <fileTransfer host="wfuk.6.yuush.dev" port="22" rootFolder="/home/dev6/projects/wfuk/www/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
