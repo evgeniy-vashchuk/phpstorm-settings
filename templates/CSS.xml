@@ -11,4 +11,10 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="mq" value="@include max-w($TEXT$) {&#10;&#9;$END$&#10;}" description="Add mixin for media query (SCSS)" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
