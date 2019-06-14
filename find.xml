@@ -13,10 +13,10 @@
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
