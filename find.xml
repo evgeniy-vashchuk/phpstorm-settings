@@ -14,7 +14,7 @@
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
