@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="242b20fe-d888-40cc-95ad-21672152d83e" name="gorabbit" url="http://yuush.dev">
-        <fileTransfer host="yuush.dev" port="22" rootFolder="/home/dev2/projects/gorabbit/www" accessType="SFTP">
+      <webServer id="242b20fe-d888-40cc-95ad-21672152d83e" name="gorabbit-DEV-2" url="http://gorabbit.2.yuush.dev">
+        <fileTransfer host="gorabbit.2.yuush.dev" port="22" rootFolder="/home/gorabbit/projects/gorabbit.2.yuush.dev/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
