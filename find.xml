@@ -16,7 +16,7 @@
     <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
